@@ -1,10 +1,10 @@
-<!-- Banner ou imagem personalizada -->
+
 ![Banner](https://i.imgur.com/Z8b6q4A.png)
 
 # 👋 Olá, eu sou o João Victor  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por **Front-end | Back-end | Full Stack**  
+💻 Apaixonado por **Front-end | Back-end |**  
 📚 Sempre em busca de novos aprendizados e desafios  
 
 ---
@@ -34,9 +34,9 @@
 ---
 
 ## 🌎 Onde me encontrar  
-- 💼 [LinkedIn](https://linkedin.com/in/seu-link)  
-- 🌐 [Portfólio](https://seusite.com)  
-- ✉️ **joaovictor@email.com**
+- 💼 [LinkedIn]([https://linkedin.com/in/seu-link](https://www.linkedin.com/in/joaovictordasilvafullstack/))  
+-  
+- ✉️ **victorjoao34444@gmail.com**
 
 ---
 
