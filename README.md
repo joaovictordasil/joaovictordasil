@@ -26,11 +26,7 @@
 <!-- Estatísticas gerais com tema moderno -->
 ![João Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovictor&show_icons=true&count_private=true&theme=tokyonight&hide_border=false)
 
-<!-- Linguagens mais usadas -->
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor&layout=compact&theme=tokyonight&hide_border=false)
 
-<!-- Badges de conquistas GitHub -->
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=joaovictor&theme=radical&no-frame=true&margin-w=10)
 
 </div>
 
