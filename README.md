@@ -1,16 +1,43 @@
-## Hi there 👋
+<!-- Banner ou imagem personalizada -->
+![Banner](https://i.imgur.com/Z8b6q4A.png)
 
-<!--
-**joaovictordasil/joaovictordasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o João Victor  
 
-Here are some ideas to get you started:
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Apaixonado por **Front-end | Back-end | Full Stack**  
+📚 Sempre em busca de novos aprendizados e desafios  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+---
+
+## 📊 Minhas estatísticas no GitHub  
+<div align="center">
+  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaovictor&show_icons=true&theme=radical&hide_border=true)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor&layout=compact&theme=radical&hide_border=true)  
+
+</div>
+
+---
+
+## 🌎 Onde me encontrar  
+- 💼 [LinkedIn](https://linkedin.com/in/seu-link)  
+- 🌐 [Portfólio](https://seusite.com)  
+- ✉️ **joaovictor@email.com**
+
+---
+
+✨ *"Código limpo é melhor do que código esperto."* ✨
