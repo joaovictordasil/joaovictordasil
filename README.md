@@ -1,5 +1,6 @@
 
-![Banner](https://i.imgur.com/Z8b6q4A.png)
+![Banner](https://i.imgur.com/aqVtOQd.png)
+
 
 # 👋 Olá, eu sou o João Victor  
 
