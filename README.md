@@ -21,12 +21,19 @@
 ---
 
 ## 📊 Minhas estatísticas no GitHub
+<div align="center">
 
-<!-- Estatísticas gerais -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaovictordasilvafullstack&show_icons=true&theme=radical)
+<!-- Estatísticas gerais com tema moderno -->
+![João Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovictor&show_icons=true&count_private=true&theme=tokyonight&hide_border=false)
 
-<!-- Top linguagens -->
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictordasilvafullstack&layout=compact&theme=radical)
+<!-- Linguagens mais usadas -->
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor&layout=compact&theme=tokyonight&hide_border=false)
+
+<!-- Badges de conquistas GitHub -->
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=joaovictor&theme=radical&no-frame=true&margin-w=10)
+
+</div>
+
 
 
 
