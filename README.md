@@ -1,7 +1,3 @@
-
-![Banner](https://i.imgur.com/aqVtOQd.png)
-
-
 # 👋 Olá, eu sou o João Victor  
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
@@ -35,8 +31,7 @@
 ---
 
 ## 🌎 Onde me encontrar  
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-link](https://www.linkedin.com/in/joaovictordasilvafullstack/))  
--  
+-  🔗 [LinkedIn](https://www.linkedin.com/in/joaovictordasilvafullstack/)
 - ✉️ **victorjoao34444@gmail.com**
 
 ---
